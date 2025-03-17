@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.header{
+    background-color: rgb(213, 239, 119);
+    padding:15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.rows {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.Row1{
+    background-color: rgb(232, 227, 227);
+    width: 33%;
+}
+.Row2{
+    background-color: rgb(232, 227, 227);
+    width: 33%;
+}
+.Row3{
+    background-color: rgb(232, 227, 227);
+    width: 33%;
+}
+.menulist{
+    text-align: center;
+    cursor: pointer;
+
+}
+.menulist1{
+     border: 1px solid rgb(38, 39, 37);
+    background-color: rgb(136, 216, 82);
+    border-radius: 10px;
+
+
+}
+.menulist2{
+    border: 1px solid black;
+    background-color: rgb(216, 82, 82);
+    border-radius: 10px;
+}
+
+.all{
+    border: 1px solid black;
+    background-color: rgb(117, 117, 117);
+    border-radius: 10px; 
+}
+table tr th {
+    border: 0.5px solid ;
+    padding: 10px;
+    padding-right: 33px;
+    font-size:smaller;
+    margin: 5px;
+    min-width: 33%;
+}
+
+table tr td{
+    border: 0.5px dashed ;
+    padding: 10px;
+    padding-right: 33px;
+    font-size:smaller;
+    margin: 5px;
+}
+.Itemlist{
+   cursor: pointer;
+}
+
+#btn {
+    border: none;
+}
+
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+input{
+  width: 30%;
+  text-align: center;
+}

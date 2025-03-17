@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "type": "veg",
+        "name": "Paneer Biryani",
+        "price": 120,
+        "quantity": 1
+    },
+    {
+      "id": 2,
+      "type": "veg",
+      "name": "Veg fried-rice",
+        "price": 60,
+        "quantity": 1
+    },
+    {
+      "id": 3,
+      "type": "veg",
+      "name": "Veg-Manchuria",
+      "price": 80,
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "type": "veg",
+      "name": "Butter-non",
+      "price": 40,
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "type": "veg",
+      "name": "Vegtable fried-rice",
+      "price": 100,
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "type": "Non-veg",
+      "name": "Egg fried-rice ",
+      "price": 120,
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "type": "Non-veg",
+      "name": "Chicken fry-piece Biryani",
+      "price": 140,
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "type": "Non-veg",
+      "name": "Mutton Biryani",
+      "price": 300,
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "type": "Non-veg",
+      "name": "prawns Biryani",
+      "price": 220,
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "type": "Non-veg",
+      "name": "Dum Biryani",
+      "price": 180,
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "type": "Non-veg",
+      "name": "Fish Biryani",
+      "price": 250,
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "type": "Non-veg",
+      "name": " Chicken tikka masala",
+      "price": 200,
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "type": "Non-veg",
+      "name": "Boneless Chicken",
+      "price": 150,
+      "quantity": 1
+    },
+    {
+      "id": 14,
+      "type": "Non-veg",
+      "name": "Chiken lollipop",
+      "price": 100,
+      "quantity": 1
+    },
+     {
+      "id": 15,
+      "type": "Non-veg",
+      "name": "Chiken Tanduri",
+      "price": 240,
+      "quantity": 1
+    },
+     {
+      "id": 16,
+      "type": "Non-veg",
+      "name": " Butter Chicken",
+      "price": 190,
+      "quantity": 1
+    },
+     {
+      "id": 17,
+      "type": "Non-veg",
+      "name": "Mixed Biryani",
+      "price": 230,
+      "quantity": 1
+    },
+     {
+       "id": 18,
+       "type": "veg",
+       "name": " Cured rice",
+       "price": 60,
+       "quantity": 1
+     },
+      {
+        "id": 19,
+        "type": "veg",
+        "name": "Full Meals",
+        "price": 100,
+        "quantity": 1
+      }
+]
