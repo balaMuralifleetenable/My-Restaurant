@@ -15,7 +15,7 @@ class App extends React.Component {
       cart: [],
     };
   }
-
+// test
   clickVeg = () => {
     let originalItems = data.filter((item) => item.type === "veg");
     this.setState({ items: originalItems });
