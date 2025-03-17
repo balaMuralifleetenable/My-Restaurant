@@ -4,7 +4,7 @@ import Menu from "./Components/Menu";
 import Items from "./Components/Items";
 import Cart from "./Components/Cart";
 import data from "./Components/items.json";
-import React from "react";
+import React, { Fragment } from "react";
 
 class App extends React.Component {
   constructor(props) {
@@ -79,7 +79,7 @@ class App extends React.Component {
   render() {
     console.log('check',this.state)
     return (
-      <>
+      <Fragment>
         <NavbarComponent />
         <div className="rows">
           <Menu clickVeg={this.clickVeg} clickNonVeg={this.clickNonVeg} clickRest={this.handleRest}/>
@@ -95,7 +95,7 @@ class App extends React.Component {
             changeInput={this.changeInput}
           />
         </div>
-      </>
+      </Fragment>
     );
   }
 }
