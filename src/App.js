@@ -77,6 +77,7 @@ class App extends React.Component {
   }
 
   render() {
+    console.log('check',this.state)
     return (
       <>
         <NavbarComponent />
